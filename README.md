@@ -1,7 +1,6 @@
 # hybrid-ad-azure-vpn
 Hybrid Active Directory infrastructure with Site-to-Site VPN integration using Azure.
 
-# Hybrid AD with Azure Site-to-Site VPN
 
 ## 📌 Project Overview
 This project demonstrates a **Hybrid Active Directory infrastructure** that connects on-premises and cloud environments using **Azure Site-to-Site VPN**.
