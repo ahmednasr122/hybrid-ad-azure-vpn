@@ -1,4 +1,4 @@
-# Hybrid AD with Azure Site-to-Site VPN
+# Hybrid AD Infrastructure with Azure Site-to-Site VPN
 Hybrid Active Directory infrastructure with Site-to-Site VPN integration using Azure.
 
 
