@@ -31,4 +31,4 @@ This project demonstrates a **Hybrid Active Directory infrastructure** that conn
 ---
 
 ## 📂 Resources
-- [LinkedIn Post]([https://www.linkedin.com/in/your-profile/](https://lnkd.in/p/d5AnGGfG))
+- [LinkedIn Post]((https://lnkd.in/p/d5AnGGfG))
